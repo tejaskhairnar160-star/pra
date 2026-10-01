@@ -1,0 +1,6 @@
+tuple = (1,2,3,4,5,6,7,8,9,7,8,5,8,6,9)
+
+print(tuple.count(7))
+print(tuple.index(3))
+print(tuple.__add__((4,4,8,"ram","shyam")))
+# print()
